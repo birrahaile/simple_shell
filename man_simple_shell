@@ -1,7 +1,7 @@
 "manpage for Simple_shell. Simple shell project to ALX- Holberton School.
 .TH man 1 "14 April 2021" "Simple Shell"                    "14 April 2021" "1.0"                                              "simple_shell man page"
 SH NAME
-Holberton Simple Shell
+ALX Holberton Simple Shell
 - A simple UNIX command line interpreter.
 .SH SYNOPSIS
 .B ./hsh [options] [command_string | file]
@@ -55,4 +55,4 @@ is based on the Thompson Shell program written by Ken Thompson.
 Only one error message will print upon failure. If any further bugs are found please contact the authors.
 
 .SH AUTHORS
-written by Fraol Tolera & Andrew Mukare with contrubiton by Ermias Teshome
+written by Birra Haile & Dawit Hailu
